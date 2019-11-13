@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChessBoard</string>
+    <string name="go">Go</string>
+    <string name="reset">Reset</string>
+</resources>
